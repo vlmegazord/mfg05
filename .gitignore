@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+btcvenv
+/static
+.DS_store
+*.sqlite3
+__pycache__
